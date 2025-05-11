@@ -1,4 +1,4 @@
-# MCP CLient and MCP Server Quickstart
+# MCP Client and MCP Server Quickstart
 
 ## References
 
@@ -48,6 +48,7 @@
   code ~/Library/Application\ Support/Claude/claude_desktop_config.json
   ```
 - If you are using virtual environment, make sure to do this
+
   ```bash
   # Create virtual environment and activate it
   uv venv
@@ -56,6 +57,7 @@
   # Install dependencies
   uv add "mcp[cli]" httpx
   ```
+
 - make sure to install mcp server
   ```bash
   uv run mcp install main.py
