@@ -1,5 +1,7 @@
 # MCP Client and MCP Server Quickstart
 
+![](./img/mcp-components.png)
+
 ## References
 
 - MCP Server: https://modelcontextprotocol.io/quickstart/server
@@ -29,9 +31,6 @@
 - It's important to know the different between MCP Host and MCP Client
   - MCP host as 1 to n relationship to MCP Clients
   - MCP client has 1 to 1 relationship their respective MCP Server
-- This is the diagram how different actors works
-
-  ![](./img/mcp-components.png)
 
 ### Tips & Trics
 
